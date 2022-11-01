@@ -44,31 +44,23 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+   My main focus is on election auditing, combinatorial optimisation under uncertainty, and constraint-based modelling.
 
 # Experience
 experience:
   - role: Postdoctoral Research Fellow in Statistics
-    time: 2022-Present
+    time: 2022 onward
     company: The University of Melbourne, Australia
     details: |
       Election auditing, optimisation.
 
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+  - role: Associate Investigator
+    time: 2022 onward
+    company: OPTIMA ARC, Australia
+    
+  - role: Research Student
+    time: 2021-2022
+    company: OPTIMA ARC, Australia
 
 publications:
   - title: Random title of paper. An interesting one.
