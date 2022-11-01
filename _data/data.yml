@@ -1,11 +1,11 @@
-name: John Doe
+name: Alexander Ek
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
+  email: <Firstname>.<Lastname>@unimelb.edu.au
+  github: aekh
   linkedin: johndoe
   phone: 
   gitlab: 
@@ -13,17 +13,20 @@ contact:
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Swedish
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: PhD in Optimisation
+    time: 2022
+    university: Monash University, Australia
 
+  - degree: MSc in Computer Science
+    time: 2018
+    university: Uppsala University, Sweden
+    
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2016
+    university: Uppsala University, Sweden
 
 skills:
   - category: Backend
@@ -49,18 +52,12 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Postdoctoral Research Fellow in Statistics
+    time: 2022-Present
+    company: The University of Melbourne, Australia
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-  
+      Election auditing, optimisation.
+
   - role: Researcher
     time: 2016-2020
     company: Microsoft
