@@ -49,21 +49,21 @@ profile: |
 # Experience
 experience:
   - role: Postdoctoral Research Fellow in Statistics
-    time: 2022 onward
+    time: Jul 2022 onward
     company: The University of Melbourne, Melbourne, Australia
     details: |
       Election auditing, optimisation.
 
   - role: Associate Investigator
-    time: 2022 onward
+    time: Jul 2022 onward
     company: OPTIMA ARC, Melbourne, Australia
     
   - role: Research Student
-    time: 2021-2022
+    time: Apr 2021 - Jul 2022
     company: OPTIMA ARC, Melbourne, Australia
     
   - role: Research Student
-    time: Sep 2018&ndashSep 2022
+    time: Sep 2018 - Jul 2022
     company: CSIRO's Data61, Melbourne, Australia
 
 publications:
