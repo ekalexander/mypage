@@ -4,7 +4,7 @@ fork: false
 
 # Sidebar
 contact:
-  email: Firstname.Lastname@unimelb.edu.au
+  email: aek (at) unimelb.edu.au
   github: aekh
   linkedin: alexanderek
   phone: 
@@ -90,12 +90,8 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-# Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  - time: 2020
+    company: 2x Reviewer: Journal of Artificial Intelligence Research (JAIR)
+  - time: Full 2016
+    company: Board Member of the Masters’ Programme in Computer Science. Uppsala University, Sweden
