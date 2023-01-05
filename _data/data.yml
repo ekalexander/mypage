@@ -90,8 +90,14 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
+# Volunteering
 volunteering:
   - time: 2020
-    company: 2x Reviewer: Journal of Artificial Intelligence Research (JAIR)
+    role:
+    company: |
+      2x Reviewer: Journal of Artificial Intelligence Research (JAIR)
+    
   - time: Full 2016
-    company: Board Member of the Masters’ Programme in Computer Science. Uppsala University, Sweden
+    role:
+    company: |
+      Board Member of the Masters' Programme in Computer Science. Uppsala University, Sweden
