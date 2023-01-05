@@ -4,9 +4,9 @@ fork: false
 
 # Sidebar
 contact:
-  email: <Firstname>.<Lastname>@unimelb.edu.au
+  email: [Firstname].[Lastname]@unimelb.edu.au
   github: aekh
-  linkedin: johndoe
+  linkedin: alexanderek
   phone: 
   gitlab: 
   twitter: 
@@ -50,28 +50,32 @@ profile: |
 experience:
   - role: Postdoctoral Research Fellow in Statistics
     time: 2022 onward
-    company: The University of Melbourne, Australia
+    company: The University of Melbourne, Melbourne, Australia
     details: |
       Election auditing, optimisation.
 
   - role: Associate Investigator
     time: 2022 onward
-    company: OPTIMA ARC, Australia
+    company: OPTIMA ARC, Melbourne, Australia
     
   - role: Research Student
     time: 2021-2022
-    company: OPTIMA ARC, Australia
+    company: OPTIMA ARC, Melbourne, Australia
+    
+  - role: Research Student
+    time: 2021-2022
+    company: CSIRO's Data61, Melbourne, Australia
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: Aggregation and Garbage Collection for Online Optimization.
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack
+    conference: Principles and Practice of Constraint Programming, 2020
 
-  - title: Second title of paper. An interesting one too.
+  - title: Modelling and Solving Online Optimisation Problems.
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Alexander Ek, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, Guido Tack
+    conference: AAAI Conference on Artificial Intelligence, 2020
 
 projects:
   - title: Cool Project 
