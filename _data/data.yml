@@ -4,7 +4,7 @@ fork: false
 
 # Sidebar
 contact:
-  email: [Firstname].[Lastname]@unimelb.edu.au
+  email: Firstname.Lastname@unimelb.edu.au
   github: aekh
   linkedin: alexanderek
   phone: 
