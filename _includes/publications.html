@@ -1,9 +1,42 @@
 {% assign publications = site.data.data.publications %}
-{% if publications %}
+{% if publicationsj %}
 <section class="publications">
-    <h2 class="title">Publications</h2>
+    <h2 class="title">Journal Publications</h2>
     <div class="publication-items">
-        {% for pub in publications%}
+        {% for pub in publicationsj%}
+            <div class="publication-item">
+                <div class="publication-title">
+                    <a href="{{pub.link}}">{{pub.title}}</a>
+                </div>
+                <div class="authors">{{pub.authors}}</div>
+                <div class="conference">{{pub.conference}}</div>   
+            </div>
+        {%endfor%}
+    </div>
+</section>
+{% endif %}
+{% if publicationsc %}
+<section class="publications">
+    <h2 class="title">Refereed Conference Publications</h2>
+    <div class="publication-items">
+        {% for pub in publicationsc%}
+            <div class="publication-item">
+                <div class="publication-title">
+                    <a href="{{pub.link}}">{{pub.title}}</a>
+                </div>
+                <div class="authors">{{pub.authors}}</div>
+                <div class="conference">{{pub.conference}}</div>   
+            </div>
+        {%endfor%}
+    </div>
+</section>
+{% endif %}
+{% if publicationso %}
+<section class="publications">
+    <h2 class="title">Workshops and Symposia</h2>
+    (Articles with a conference or journal version are listed together with that artical and not below.)
+    <div class="publication-items">
+        {% for pub in publicationsc%}
             <div class="publication-item">
                 <div class="publication-title">
                     <a href="{{pub.link}}">{{pub.title}}</a>
